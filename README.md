@@ -2,6 +2,8 @@
 
 ScaffoldShifter is an Opai Client extension module.
 
+You need to set 'Blocks' option to 2 and use 'None' Sprint mode to bypass Hypixel Staff. Set 'Blocks' option to 9 bypasses Vulcan scaffold speed check even if you are telly bridging.
+
 ## Module
 
 - Category: `Misc`
